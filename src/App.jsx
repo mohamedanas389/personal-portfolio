@@ -5,7 +5,7 @@ import anas from './assets/anas.png';
 import resume from './assets/mohamedanasresume.pdf';
 import student from './assets/ss.png';
 import placement from './assets/pp.png';
-import quiz from './assets/quiz.png'
+import quiz from './assets/quiz.png';
 
 
 // --- Data ---
