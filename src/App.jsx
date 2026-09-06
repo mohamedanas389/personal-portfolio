@@ -187,7 +187,7 @@ const Contact = () => {
   return (
     <section id="contact" className="section">
       <div className="container contact-container">
-        <h2 className="section-title" style={{marginRight:"910px"}}>Get In Touch</h2>
+       <h2 className="section-title" style={{ textAlign: 'center', display: 'block', width: '100%' }}>Get In Touch</h2>
         <p style={{color: 'var(--text-secondary)', maxWidth: '600px'}}>
           I am currently looking for internship opportunities or freelance projects. 
           Whether you have a question or just want to say hi, I'll try my best to get back to you!
@@ -211,7 +211,7 @@ const Contact = () => {
           </div>
         </div>
 
-        <a href="mailto:mohamedanas@example.com" className="btn" style={{marginTop: '40px'}}>
+        <a href="mailto:anashajamydeen@gmail.com" className="btn" style={{marginTop: '40px'}}>
           Say Hello
         </a>
       </div>
