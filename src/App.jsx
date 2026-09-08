@@ -3,9 +3,9 @@ import { FaBars, FaTimes, FaGithub, FaLinkedin, FaTwitter, FaInstagram, FaEnvelo
 import { Link } from 'react-scroll';
 import anas from './assets/anas.png';
 import resume from './assets/mohamedanasresume.pdf';
-import student from './assets/ss.jpg';
-import placement from './assets/pp.jpg';
-import quiz from './assets/quiz.jpg';
+// import student from './assets/ss.jpg';
+// import placement from './assets/pp.jpg';
+// import quiz from './assets/quiz.jpg';
 
 
 // --- Data ---
@@ -19,19 +19,19 @@ const projects = [
     title: "Online Quiz Management System",
     desc: "A comprehensive platform to conduct quizzes and analyze results efficiently. Features include timer, instant feedback, and score analytics.",
     tech: ["MongoDB", "Node.js","Express.js","React.js"],
-    image: quiz
+    image: "/images/quiz.jpg"
   },
   {
     title: "Student Task Management System",
     desc: "Designed to track student progress efficiently. Allows task assignment, status updates, and performance tracking for educators.",
     tech: ["React.js", "Node.js","Express.js", "MongoDB"],
-    image: student
+    image: "/images/ss.jpg"
   },
   {
     title: "Placement Preparation App",
     desc: "An all-in-one app to help students prepare for placements. Includes resources, mock tests, and company-specific preparation guides.",
     tech: ["React.js", "Node.js", "Express.js","MongoDB"],
-    image: placement
+    image: "/images/pp.jpg"
   }
 ];
 
