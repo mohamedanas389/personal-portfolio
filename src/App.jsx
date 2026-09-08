@@ -3,9 +3,9 @@ import { FaBars, FaTimes, FaGithub, FaLinkedin, FaTwitter, FaInstagram, FaEnvelo
 import { Link } from 'react-scroll';
 import anas from './assets/anas.png';
 import resume from './assets/mohamedanasresume.pdf';
-import student from './assets/ss.png';
-import placement from './assets/pp.png';
-import quiz from './assets/quiz.png';
+import student from './assets/ss.jpg';
+import placement from './assets/pp.jpg';
+import quiz from './assets/quiz.jpg';
 
 
 // --- Data ---
